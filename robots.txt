@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://firatgezer33.github.io/resources-5hdtq1/sitemap.xml
